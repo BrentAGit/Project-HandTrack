@@ -1,0 +1,13 @@
+.camera,
+.canvas {
+  position: absolute !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  margin-top: 40px !important;
+  left: 0 !important;
+  right: 0 !important;
+  text-align: center !important;
+  z-index: 0 !important;
+  width: 640px !important;
+  height: 480px !important;
+}

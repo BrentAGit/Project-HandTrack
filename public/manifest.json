@@ -1,0 +1,8 @@
+{
+  "short_name": "TensorflowJs",
+  "name": "Stageproject Two-Point-O: Real Time AI Gesture Recognision",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

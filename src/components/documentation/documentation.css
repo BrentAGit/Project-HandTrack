@@ -1,0 +1,25 @@
+.dualHandDocs{
+    padding-top: 550px;
+}
+
+.gestureDetectorDoc,
+.gestureDetectorTut{
+    margin-top: 50px;
+}
+
+.gestureDetectorTut{
+    text-align: justify;
+    margin-left: 40px;
+}
+
+.homePage{
+    text-align: justify;
+    margin-left: 40px;
+    margin-top: 25px;
+    width: 50%;
+}
+
+.homeText{
+    margin-top: 10px;
+}
+
